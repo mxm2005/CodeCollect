@@ -1,0 +1,4 @@
+E:\mxm\mycode\dotnet\CodeCollect\CodeCollect\bin\Debug\CodeCollect.exe
+E:\mxm\mycode\dotnet\CodeCollect\CodeCollect\bin\Debug\CodeCollect.pdb
+E:\mxm\mycode\dotnet\CodeCollect\CodeCollect\obj\Debug\CodeCollect.exe
+E:\mxm\mycode\dotnet\CodeCollect\CodeCollect\obj\Debug\CodeCollect.pdb
