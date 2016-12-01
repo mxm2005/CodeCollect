@@ -9,6 +9,8 @@ namespace CodeCollect
     {
         static void Main(string[] args)
         {
+        	
+		//demo
             string ff = "E:\\CheckResultPath\\DetailFile\\20161130\\18833-80887119085622.xml";
             //FileInfo inf = new FileInfo(ff);
             Console.WriteLine(JudgeFileEncodingType.GetType(ff).ToString());
